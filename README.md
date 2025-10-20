@@ -3,7 +3,7 @@
 Hi, I'm Hanok 👋
 I'm a first-year CS student in Technological University Dublin, interested in AI, cybersecurity and software engineering.
 
-🔭 Current Project: WebDev_Project_HCD
+🔭 Current Project: [WebDev_Project_HCD](https://github.com/hkl7-dev/WebDev_Project_HCD)
 🌱 Learning: C programming, Python programming
 💬 Ask me about: Anything Tech
 📫 Connect: https://www.linkedin.com/in/hanok-libu-b9ab51293/
