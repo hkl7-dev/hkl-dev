@@ -33,7 +33,7 @@ To secure a **summer 2025 internship** where I can grow as a developer, collabor
 
 ### 🤝 Let’s Connect
 💼 [LinkedIn](https://www.linkedin.com/in/hanok-libu-b9ab51293/)  
-🧑‍💻 [GitHub](https://github.com/hkl-dev)
+🧑‍💻 [GitHub](https://github.com/hkl7-dev)
 
 ---
 
