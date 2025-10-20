@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 What I'm Working On
-- 🌐 **[WebDev_Project_HCD](https://github.com/hkl-dev/WebDev_Project_HCD)** — A collaborative website project built with **HTML**, **CSS**, and **JavaScript**, focusing on accessibility and responsive design.  
+- 🌐 **[WebDev_Project_HCD](https://github.com/hkl7-dev/WebDev_Project_HCD)** — A collaborative website project built with **HTML**, **CSS**, and **JavaScript**, focusing on accessibility and responsive design.  
 - 🐍 Personal **Python** scripts & mini-projects  
 - 💡 Small **C programming** side projects to strengthen my fundamentals  
 
